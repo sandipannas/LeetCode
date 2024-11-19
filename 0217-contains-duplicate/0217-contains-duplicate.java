@@ -1,33 +1,18 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        
-      // less optimized (brute force)
-
-       /*
-        int n=nums.length;
-        Arrays.sort(nums);
-        for(int i=0;i+1<n;i++)
-        {
-            if(nums[i]==nums[i+1])
-            {
-                return true;
-            }
-
-        }
-        return false; 
-        */
-        
-        // more optimized
-        
+        //taking a hashset which can only store unique values
         Set<Integer> sack=new HashSet<>();
+        //traversing the array
         for(int i:nums)
-        {
+        {   //checking if set already contains the number or not 
             if(sack.contains(i))
-            {
+            {   //if yes it contains then its a duplicate
                 return true;
             }
+            //if not then add the number to the set
             sack.add(i);
         }
+        //if it passes through whole array then there is no duplicates
         return false;
     }
 }
