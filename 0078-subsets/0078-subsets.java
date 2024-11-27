@@ -4,16 +4,16 @@ class Solution {
     {
         if(i>=nums.length)
         {
-            og.add(gg);
+            og.add(new ArrayList<>(gg));
             return;
         }
 
         //two choices
 
         //eiter a yes
-        ArrayList<Integer> nnn=(ArrayList)gg.clone();
-        nnn.add(nums[i]);
-        bt_sub(nums,nnn,i+1);
+        gg.add(nums[i]);
+        bt_sub(nums,gg,i+1);
+        gg.remove(gg.size()-1);
         
 
         //or a no
