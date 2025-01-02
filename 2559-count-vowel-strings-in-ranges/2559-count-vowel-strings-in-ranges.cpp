@@ -20,10 +20,6 @@ public:
 
                index++;
         }
-        for(auto i:words)
-        {
-            cout<<i<<" ";
-        }
         index=0;
         vector<int> gg(queries.size(),0);
         for(auto i:queries)
