@@ -7,6 +7,6 @@ public:
         }
 
         if(sy==1){ return true; }
-        else{ return false; }
+        return false;
     }
 };
