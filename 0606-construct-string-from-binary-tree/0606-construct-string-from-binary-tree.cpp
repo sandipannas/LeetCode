@@ -19,7 +19,6 @@ public:
             return;
         }
         s=s+ to_string(root->val);
-        cout<<root->val<<" ";
         if(root->left==NULL && root->right==NULL)
         {
             return;
