@@ -5,12 +5,15 @@ public:
         int n=nums.size();
         nums.push_back(0);
         vector<int> dp(n+1,-1);
-        dp[0]=nums[0];
-        dp[1]=max(nums[1],nums[0]);
+        int ver1=nums[0];
+        int ver2=max(nums[1],nums[0]);
+        int ans=0;
         for(int i=2;i<=n;i++)
         {
-            dp[i]=max(dp[i-1],dp[i-2]+nums[i]);
+            ans=max(ver2,ver1+nums[i]);
+            ver1=ver2;
+            ver2=ans;
         }
-        return dp[n];
+        return ans;
     }
 };
