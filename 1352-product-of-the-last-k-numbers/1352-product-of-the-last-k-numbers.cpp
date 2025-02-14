@@ -31,7 +31,6 @@ public:
         gg.push_back(gg.back()*num);
         og.push_back(count);
         }
-        cout<<num<<" "<<gg.back()<<endl;
     }
     
     int getProduct(int k) {
@@ -44,7 +43,6 @@ public:
             }
 
         if(og.back()-og[og.size()-k-1]>0) { return 0; }
-        if(gg[gg.size()-k-1]==0){return gg.back();}
         
         return gg.back()/gg[gg.size()-k-1];
     }
