@@ -26,7 +26,7 @@ public:
             }
         }
         if(lowest_value.size()==0){ return 0;}
-        if(rot.size()==0){ return -1; }
+        // if(rot.size()==0){ return -1; }
 
         for(int i:rot){
             queue<int> kwi;
