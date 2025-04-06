@@ -23,14 +23,15 @@ public:
             }
         }
         if(lowest_value.size()==0){ return 0;}
-
+        
+        queue<int> kwi;
+        unordered_set<int> visited;
         for(int i:rot){
-            queue<int> kwi;
-            unordered_set<int> visited;
             kwi.push(i);
             visited.insert(i);
             lowest_value[i]=0;
-            while(!kwi.empty()){
+        }
+        while(!kwi.empty()){
                 int gg=kwi.front();
                 kwi.pop();
                 for(int ii:graph[gg]){
@@ -40,7 +41,6 @@ public:
                     lowest_value[ii]=min(lowest_value[ii],lowest_value[gg]+1);
                 }
             }
-        }
         int ans=0;
         for(auto& i:lowest_value){
             ans=max(i.second,ans);
