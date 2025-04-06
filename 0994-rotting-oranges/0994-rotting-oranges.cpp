@@ -14,15 +14,15 @@ public:
               if(grid[i][j]==0){ node++; continue; }
               if(grid[i][j]==2){ rot.push_back(node); }
               lowest_value[node]=INT_MAX;
-              int u=0,l=0,r=0,d=0;
-              if(i-1>=0 && grid[i-1][j]!=0) { graph[node].push_back(node-n); u=1;}
-              if(i+1<m && grid[i+1][j]!=0) { graph[node].push_back(node+n); d=1;}
-              if(j-1>=0 && grid[i][j-1]!=0) { graph[node].push_back(node-1); l=1;}
-              if(j+1<n && grid[i][j+1]!=0) { graph[node].push_back(node+1); r=1;}
+              //int u=0,l=0,r=0,d=0;
+              if(i-1>=0 && grid[i-1][j]!=0) { graph[node].push_back(node-n);} //u=1;}
+              if(i+1<m && grid[i+1][j]!=0) { graph[node].push_back(node+n);} //d=1;}
+              if(j-1>=0 && grid[i][j-1]!=0) { graph[node].push_back(node-1);} //l=1;}
+              if(j+1<n && grid[i][j+1]!=0) { graph[node].push_back(node+1);} //r=1;}
               node++;
-              if(u==0 && d==0 && l==0 && r==0 && grid[i][j]==1){
-                return -1;
-              }
+            //   if(u==0 && d==0 && l==0 && r==0 && grid[i][j]==1){
+            //     return -1;
+            //   }
             }
         }
         if(lowest_value.size()==0){ return 0;}
