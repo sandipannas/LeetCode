@@ -3,44 +3,62 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         
         int m=grid.size(),n=grid[0].size();
-        unordered_map<int,vector<int>> graph;
         unordered_map<int,int> lowest_value;
         vector<int> rot;
         int node=0;
 
-
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-              if(grid[i][j]==0){ node++; continue; }
-              if(grid[i][j]==2){ rot.push_back(node); }
-              lowest_value[node]=INT_MAX;
-            
-              if(i-1>=0 && grid[i-1][j]!=0) { graph[node].push_back(node-n);} 
-              if(i+1<m && grid[i+1][j]!=0) { graph[node].push_back(node+n);} 
-              if(j-1>=0 && grid[i][j-1]!=0) { graph[node].push_back(node-1);} 
-              if(j+1<n && grid[i][j+1]!=0) { graph[node].push_back(node+1);} 
+        for(auto& i:grid){
+            for(int j:i){
+              if(j==2){ rot.push_back(node); }
+              if(j==1){ lowest_value[node]=INT_MAX; }
               node++;
             }
         }
-        if(lowest_value.size()==0){ return 0;}
+        if(lowest_value.size()==0){
+            return 0;
+        }
 
         for(int i:rot){
-            queue<int> kwi;
-            unordered_set<int> visited;
+
+            
+            queue<int> kwi;  unordered_set<int> visited;
+            
             kwi.push(i);
             visited.insert(i);
             lowest_value[i]=0;
+
             while(!kwi.empty()){
-                int gg=kwi.front();
-                kwi.pop();
-                for(int ii:graph[gg]){
-                    if(visited.count(ii)){ continue; }
-                    visited.insert(ii);
-                    kwi.push(ii);
-                    lowest_value[ii]=min(lowest_value[ii],lowest_value[gg]+1);
-                }
+
+                int gg=kwi.front();  kwi.pop();
+                int row=gg/n,col=gg%n;   
+                
+              if(row-1>=0 && grid[row-1][col]!=0) { 
+                int nya=((row-1)*n)+col; if(!visited.count(nya)){
+                lowest_value[((row-1)*n)+col]=min( lowest_value[nya],lowest_value[gg]+1);
+                kwi.push(nya);
+                visited.insert(nya);}
+                } 
+              if(row+1<m && grid[row+1][col]!=0) { 
+                int nya=((row+1)*n)+col; if(!visited.count(nya)){
+                lowest_value[((row+1)*n)+col]=min( lowest_value[nya],lowest_value[gg]+1);
+                kwi.push(nya);
+                visited.insert(nya);}
+                } 
+              if(col-1>=0 && grid[row][col-1]!=0) { 
+                int nya=(row*n)+col-1; if(!visited.count(nya)){
+                lowest_value[(row*n)+col-1]=min( lowest_value[nya],lowest_value[gg]+1);
+                kwi.push(nya);
+                visited.insert(nya);}
+                } 
+              if(col+1<n && grid[row][col+1]!=0) { 
+                int nya=(row*n)+col+1; if(!visited.count(nya)){
+                lowest_value[(row*n)+col+1]=min( lowest_value[nya],lowest_value[gg]+1);
+                kwi.push(nya);
+                visited.insert(nya);}
+                } 
             }
         }
+
         int ans=0;
         for(auto& i:lowest_value){
             ans=max(i.second,ans);
