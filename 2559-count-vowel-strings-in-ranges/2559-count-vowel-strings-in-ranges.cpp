@@ -1,39 +1,33 @@
 class Solution {
 public:
     vector<int> vowelStrings(vector<string>& words, vector<vector<int>>& queries) {
-        int index=0;
-        int sum=0;
-        vector<int> og(words.size());
-        for(auto s:words)
-        {   int n=s.size()-1;
-            if((s[0]=='a'||s[0]=='e'||s[0]=='i'||s[0]=='o'||s[0]=='u') &&
-               (s[n]=='a'||s[n]=='e'||s[n]=='i'||s[n]=='o'||s[n]=='u'))
-               {
-                sum++;
-                words[index]="1";
-               }
-               else
-               {
-                words[index]="0";
-               }
-               og[index]=sum;
-
-               index++;
+        vector<int> prefix(words.size());
+        int count=0;
+        for(int i=0;i<words.size();i++){
+            if((words[i][0]=='a' 
+                || words[i][0]=='e' 
+                || words[i][0]=='i' 
+                || words[i][0]=='o' 
+                || words[i][0]=='u') && 
+               (words[i].back()=='a' 
+                || words[i].back()=='e' 
+                || words[i].back()=='i'
+                || words[i].back()=='o' 
+                || words[i].back()=='u')){
+                count++;
+            }
+            prefix[i]=count;
         }
-        index=0;
-        vector<int> gg(queries.size(),0);
-        for(auto i:queries)
-        {
-           if(i[0]==i[1])
-           {
-            gg[index]=stoi(words[i[0]]);
-           }
-           else
-           {
-            gg[index]=og[i[1]]-og[i[0]]+stoi(words[i[0]]);
-           }
-           index++; 
+        vector<int> ans(queries.size());
+        for(int i=0;i<queries.size();i++){
+            if(queries[i][0]==0){
+                ans[i]=prefix[queries[i][1]];
+            }
+            else{
+                ans[i]=prefix[queries[i][1]]-prefix[queries[i][0]-1];
+            }
         }
-        return gg;
+        return ans;
+        
     }
 };
