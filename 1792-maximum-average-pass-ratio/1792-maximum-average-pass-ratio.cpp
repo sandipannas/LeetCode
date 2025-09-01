@@ -1,8 +1,7 @@
 class Solution {
 public:
     double maxAverageRatio(vector<vector<int>>& classes, int ex) {
-    
-        double total;
+
         priority_queue<vector<double>> pq;
         int j=0;
         for(auto pair : classes){
@@ -10,9 +9,7 @@ public:
             j++;
         }
 
-        if(ex==0){
-            return total/classes.size();
-        }
+    
         
         int i=0;
         while(i<ex){
