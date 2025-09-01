@@ -20,7 +20,6 @@ public:
             auto selected = pq.top();
             pq.pop();
 
-            total+=selected[0];
             int index=int(selected[1]);
 
             classes[index][0]++;
