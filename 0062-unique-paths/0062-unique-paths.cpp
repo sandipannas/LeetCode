@@ -1,15 +1,21 @@
 class Solution {
 public:
+    //space optimized solution
     int uniquePaths(int m, int n) {
-       vector<vector<int>> dp(m,vector<int>(n));
-       dp[m-1][n-1]=1;
+       vector<int> dpRight(m,0);
+       vector<int> dpDown(n,0);
+
+       dpRight[m-1]=1;
+
        for(int i=m-1;i>=0;i--){
         for(int j=n-1;j>=0;j--){
-            int down=i+1>=m?0:dp[i+1][j];
-            int right=j+1>=n?0:dp[i][j+1];
-            dp[i][j]+=down+right;
+            int down=dpDown[j];
+            int right=dpRight[i];
+            int tem=down+right;
+            dpDown[j]=tem;
+            dpRight[i]=tem;
         }
-       }      
-       return dp[0][0];
+       }
+       return dpDown[0];
     }
 };
