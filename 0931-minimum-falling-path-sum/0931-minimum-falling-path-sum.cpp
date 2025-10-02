@@ -5,9 +5,10 @@ public:
         int n = matrix[0].size();
 
         vector<int> dpDown(n,0);
+        vector<int> store(n,INT_MAX);
 
         for(int i=m-1;i>=0;i--){
-            vector<int> store(n,INT_MAX);
+            
             for(int j=n-1;j>=0;j--){
                 int left = j-1<0 || i+1>=m ?INT_MAX:dpDown[j-1];
                 int down = i+1>=m ?INT_MAX:dpDown[j];
