@@ -9,21 +9,10 @@ public:
         for(int i=m-1;i>=0;i--){
             vector<int> store(n,INT_MAX);
             for(int j=n-1;j>=0;j--){
-
-                cout<<"the option for "<<matrix[i][j]<<"are "<<"\n";
-                
                 int left = j-1<0 || i+1>=m ?INT_MAX:dpDown[j-1];
                 int down = i+1>=m ?INT_MAX:dpDown[j];
                 int right = j+1>=n || i+1>=m ?INT_MAX:dpDown[j+1];
-                
-                cout<<"left "<<left<<"\n";
-                cout<<"down "<<down<<"\n";
-                cout<<"right "<<right<<"\n";
-
                 int tem =matrix[i][j]+((left==down && down==right && left==right && right==INT_MAX)?0:min(left,min(down,right)));
-
-                cout<<"so the total is "<<tem<<"\n";
-
                 store[j]=tem;
             }
             dpDown=store;
