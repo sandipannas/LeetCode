@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool hasIncreasingSubarrays(vector<int>& nums, int k) {
+        if(k==1)return true;
         int curr=0;
         int pre=INT_MIN;
         unordered_set<int> set;
