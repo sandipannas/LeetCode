@@ -21,7 +21,6 @@ public:
             if(set.count(i-k)){
                 return true;
             }
-            cout<<i<<endl;
         }
         return false;
     }
