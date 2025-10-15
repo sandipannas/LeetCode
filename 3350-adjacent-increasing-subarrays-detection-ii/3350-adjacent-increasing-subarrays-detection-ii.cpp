@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxIncreasingSubarrays(vector<int>& nums) {
-        unordered_map<int,int> map;
+        vector<int> map(nums.size());
         int curr=0;
         int pre=INT_MIN;
         for(int i=0;i<nums.size();i++){
@@ -16,15 +16,15 @@ public:
         }
         int ansMax=INT_MIN;
 
-        for(auto &i:map){
+        for(int i=0;i<map.size();i++){
             int left=1;
-            int right=i.second;
+            int right=map[i];
 
-            int index=i.first;
+            int index=i;
 
             while(left<=right){
                 int k=left+((right-left)/2);
-                if(map.count(index+k) && map[index+k]>=k){
+                if(index+k<map.size() && map[index+k]>=k){
                     left=k+1;
                     ansMax=max(ansMax,k);
                 }
