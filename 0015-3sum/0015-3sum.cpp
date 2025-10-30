@@ -12,18 +12,16 @@ public:
             int left = i + 1;
             int right = n - 1;
             int target = -nums[i];
-            int first = 1;
-            int second=2;
-            int third=3;
+            vector<int> pre={1,2,3};
+
             while (left < right) {
                 int sum = nums[left] + nums[right];
                 if (sum == target) {
-                    if((first!=nums[i]||second!= nums[left])||third != nums[right]){
-                       res.push_back({nums[i],nums[left],nums[right]}); 
+                    vector<int> curr={nums[i],nums[left],nums[right]};
+                    if(pre!=curr){
+                       res.push_back(curr); 
                     }
-                       first = nums[i];
-                       second=nums[left];
-                       third=nums[right];
+                    pre=curr;
                     left++;
                     right--;
                 } 
