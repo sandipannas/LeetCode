@@ -12,20 +12,20 @@ public:
             int left = i + 1;
             int right = n - 1;
             int target = -nums[i];
-
+            int first = 1;
+            int second=2;
+            int third=3;
             while (left < right) {
                 int sum = nums[left] + nums[right];
                 if (sum == target) {
-                    
-                    res.push_back({nums[i],nums[left],nums[right]});
+                    if((first!=nums[i]||second!= nums[left])||third != nums[right]){
+                       res.push_back({nums[i],nums[left],nums[right]}); 
+                    }
+                       first = nums[i];
+                       second=nums[left];
+                       third=nums[right];
                     left++;
                     right--;
-                    while(left<right && nums[left]==nums[left-1]){
-                        left++;
-                    }
-                    while(left<right && nums[right]==nums[right+1]){
-                        right--;
-                    }
                 } 
                 else if (sum < target) {
                     left++;
