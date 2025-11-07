@@ -1,26 +1,23 @@
 class Solution {
 public:
-    int flag=0;
-    void check(int first,int second,vector<int>& nums,int irr)
-    {   
-        if(flag==1){ return; }
-        if(irr>=nums.size()){
-            if(first==second){
-                flag=1;
-            }
-            return; 
-        }
+    bool check(int index,long long curr,vector<int>& nums,vector<int>& dp){
+        if(curr==0){ return true; }
+        if(index>=nums.size()){ return false; }
+        //take
+        bool take=curr<nums[index]?false:check(index+1,curr-nums[index],nums,dp);
+        //not take
+        bool nTake=check(index+1,curr,nums,dp);
 
-        check(first + nums[irr],second,nums,irr+1);
-        check(first,second + nums[irr],nums,irr+1);
-        return;
+        return take || nTake;
     }
 
     bool canPartition(vector<int>& nums) {
-        check(0,0,nums,0);
-        if(flag==1){
-            return true;
-        }
-        return false;
+       long long total=0;
+       vector<int> dp(5);
+       for(int i:nums){
+        total+=(long long)i;
+       }
+       if(total%2==1){ return false; }
+       else { return check(0,total/2,nums,dp); } 
     }
 };
