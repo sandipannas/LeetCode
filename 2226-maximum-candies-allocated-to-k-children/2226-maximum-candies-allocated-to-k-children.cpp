@@ -19,14 +19,11 @@ public:
         long long maxi=0;
         while(st<=ed){
             long long mid=st+(ed-st)/2;
-            //cout<<" for mid "<<mid<<endl;
             if(fullfill(candies,k,mid)){
-                //cout<<"condition pass "<<endl;
                 st=mid+1;
                 maxi=mid;
             }
             else{
-                //cout<<"condition failed"<<endl;
                 ed=mid-1;
             }
         }
