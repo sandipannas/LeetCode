@@ -1,27 +1,36 @@
 class Solution {
 public:
-    int maximumCandies(vector<int>& a, long long k) {
-        const int n = a.size();
+    int fullfill(vector<int> candies,long long k,long long mid){
+        long long total=0;
+        for(int i:candies){
+          total+=i/mid;
+        }
+        if(total<k){ return 0; }
+        return 1;
+    }
 
-        const auto test = [&a, &n, &k](int x) {
-            long p = 0;
-            for (int i = 0; i < n; ++i) p += a[i] / x;
-            return p >= k;
-        };
-
-        long s = 0;
-        for (int i = 0; i < n; ++i) s += a[i];
-
-        int i = 1;
-        int j = s / k;
-        if (j <= 1) return j;
-
-        while (i <= j) {
-            const int m = (i + j) / 2;
-            if (test(m)) i = m + 1;
-            else j = m - 1;
+    int maximumCandies(vector<int>& candies, long long k) {
+        long long total_candies = 0;
+        for(long long candy:candies){
+            total_candies+=candy;
         }
 
-        return j;
+        long long st=1,ed=total_candies/k;
+        long long maxi=0;
+        while(st<=ed){
+            long long mid=st+(ed-st)/2;
+            //cout<<" for mid "<<mid<<endl;
+            if(fullfill(candies,k,mid)){
+                //cout<<"condition pass "<<endl;
+                st=mid+1;
+                maxi=mid;
+            }
+            else{
+                //cout<<"condition failed"<<endl;
+                ed=mid-1;
+            }
+        }
+
+        return maxi;
     }
 };
