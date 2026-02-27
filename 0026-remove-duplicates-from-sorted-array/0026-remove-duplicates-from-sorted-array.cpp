@@ -16,7 +16,7 @@ public:
               right++;
             }
             
-            if(left<nums.size() && right<nums.size()){
+            if(left<nums.size()-1 && right<nums.size()){
                 left++;
                 nums[left]=nums[right];
             }
