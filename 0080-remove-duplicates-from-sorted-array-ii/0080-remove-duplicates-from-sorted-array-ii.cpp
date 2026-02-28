@@ -13,7 +13,7 @@ public:
             
             right++;
             
-            if(nums[right-1]==nums[right]){ count++; }
+            if(right<nums.size() && nums[right-1]==nums[right]){ count++; }
             else{ count=1; }
         }
 
