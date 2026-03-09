@@ -6,13 +6,10 @@ public:
     KthLargest(int k, vector<int>& nums) {
         limit=k;
         for(int i : nums){
-           if(minHeap.size()==limit && minHeap.top()<i){
-              minHeap.pop();
-              minHeap.push(i);
-           }
-           else if(minHeap.size()<limit){
-              minHeap.push(i);
-           }
+          minHeap.push(i);
+        }
+        while(minHeap.size()>k){
+            minHeap.pop();
         }
     }
     
