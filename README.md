@@ -6,6 +6,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1046-last-stone-weight](https://github.com/sandipannas/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sandipannas/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
@@ -49,6 +50,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sandipannas/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1046-last-stone-weight](https://github.com/sandipannas/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
