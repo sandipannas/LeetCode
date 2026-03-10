@@ -6,6 +6,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/sandipannas/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0198-house-robber](https://github.com/sandipannas/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/sandipannas/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -83,6 +84,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/sandipannas/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
