@@ -9,6 +9,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0056-merge-intervals](https://github.com/sandipannas/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0198-house-robber](https://github.com/sandipannas/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1046-last-stone-weight](https://github.com/sandipannas/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sandipannas/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -37,6 +38,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sandipannas/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -59,6 +61,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sandipannas/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/sandipannas/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sandipannas/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -89,6 +92,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sandipannas/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,4 +113,12 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sandipannas/LeetCode/tree/main/0146-lru-cache/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 <!---LeetCode Topics End-->
