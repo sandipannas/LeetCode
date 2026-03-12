@@ -10,6 +10,7 @@ public:
         this->value=value;
     }
 };
+
 class LRUCache {
 public:
     int capacity;
@@ -30,15 +31,6 @@ public:
 
     }
 
-    // void display(){
-    //     ListtNode* trry=head;
-    //     while(trry!=NULL){
-    //         cout<<"<--("<<trry->key<<")-->";
-    //         trry=trry->next;
-    //     }
-    //     cout<<endl;
-    // }/
-
     void update(ListtNode* rem){
         current--;
         
@@ -57,7 +49,6 @@ public:
         map.erase(key);
 
         //enter that in the front
-
         put(key,value);
 
     }
@@ -69,15 +60,10 @@ public:
             int ans=rem->value;
 
             //update
-            update(rem); 
-            
-            //display();
+            update(rem);
             return ans;
         }
-        else{
-            //display();
-            return -1;
-        }
+        else{ return -1; }
     }
     
     void put(int key, int value) {
@@ -107,7 +93,6 @@ public:
             //enter the from the front
             put(key,value);
         }
-        //display();
     }
 };
 
