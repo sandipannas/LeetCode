@@ -36,6 +36,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/sandipannas/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/sandipannas/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sandipannas/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -99,4 +101,12 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/sandipannas/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/sandipannas/LeetCode/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/sandipannas/LeetCode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
