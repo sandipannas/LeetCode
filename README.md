@@ -14,11 +14,13 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sandipannas/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sandipannas/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sandipannas/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sandipannas/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sandipannas/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sandipannas/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sandipannas/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sandipannas/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
