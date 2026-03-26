@@ -11,6 +11,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1046-last-stone-weight](https://github.com/sandipannas/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sandipannas/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sandipannas/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -42,6 +43,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0146-lru-cache](https://github.com/sandipannas/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0355-design-twitter](https://github.com/sandipannas/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0056-merge-intervals](https://github.com/sandipannas/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,8 +127,10 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 <!---LeetCode Topics End-->
