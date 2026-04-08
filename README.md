@@ -10,6 +10,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0064-minimum-path-sum](https://github.com/sandipannas/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0198-house-robber](https://github.com/sandipannas/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sandipannas/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1046-last-stone-weight](https://github.com/sandipannas/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -45,6 +46,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sandipannas/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0355-design-twitter](https://github.com/sandipannas/LeetCode/tree/main/0355-design-twitter/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sandipannas/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -111,6 +113,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sandipannas/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sandipannas/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sandipannas/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Bit Manipulation
