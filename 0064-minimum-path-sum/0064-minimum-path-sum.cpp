@@ -7,7 +7,7 @@ public:
         vector<int> down(n,INT_MAX);
         vector<int> right(m,INT_MAX);
 
-        right[m-1]=0;
+        right[m-1]=0; // only one base case
 
         for(int i=m-1;i>=0;i--){
             for(int j=n-1;j>=0;j--){
@@ -18,8 +18,5 @@ public:
         }
 
         return down[0];
-
-        
-
     }
 };
