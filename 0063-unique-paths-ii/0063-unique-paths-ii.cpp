@@ -12,14 +12,8 @@ public:
 
         for(int i=m-1;i>=0;i--){
             for(int j=n-1;j>=0;j--){
-               if(grid[i][j]==1){ 
-                dpDown[j]=0; 
-                dpRight[i]=0;
-               }else{
-                long tem=dpDown[j]+dpRight[i];
-                dpDown[j]=tem;
-                dpRight[i]=tem;
-               }
+                dpDown[j]=(grid[i][j]==1)?0:dpDown[j]+dpRight[i];
+                dpRight[i]=(grid[i][j]==1)?0:dpDown[j];
             }
         }
 
