@@ -7,8 +7,7 @@ public:
         
         for(int i=m-1;i>=0;i--){
             for(int j=0;j<triangle[i].size();j++){
-                int tem = triangle[i][j]+min(dpDown[j],dpDown[j+1]);
-                dpDown[j]=tem;
+                dpDown[j]=triangle[i][j]+min(dpDown[j],dpDown[j+1]);
             }
         }
         return dpDown[0];
