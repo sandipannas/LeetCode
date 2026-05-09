@@ -18,6 +18,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1046-last-stone-weight](https://github.com/sandipannas/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sandipannas/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1929-concatenation-of-array](https://github.com/sandipannas/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sandipannas/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sandipannas/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -97,6 +98,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/sandipannas/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sandipannas/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sandipannas/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Math
