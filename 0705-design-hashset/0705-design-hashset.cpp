@@ -13,13 +13,13 @@ class MyHashSet {
 public:
     vector<Node> arr;
 
-    MyHashSet():arr(100,Node(-1)) {
+    MyHashSet():arr(10,Node(-1)) {
         
     }
     
     void add(int key) {
         //cout<<"adding "<<key<<endl;
-        int key_index=key%100;
+        int key_index=key%10;
 
         Node* tem=&arr[key_index];
         Node* to_add=new Node(key);
@@ -37,7 +37,7 @@ public:
     void remove(int key) {
         //cout<<"removing "<<key<<endl;
 
-        int key_index=key%100;
+        int key_index=key%10;
 
         Node* tem=&arr[key_index];
         Node* pre=NULL;
@@ -50,7 +50,7 @@ public:
     bool contains(int key) {
         //cout<<"finding "<<key<<endl;
 
-        int key_index=key%100;
+        int key_index=key%10;
 
         Node* tem=&arr[key_index];
         
