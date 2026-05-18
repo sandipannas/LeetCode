@@ -173,6 +173,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sandipannas/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0206-reverse-linked-list](https://github.com/sandipannas/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/sandipannas/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0705-design-hashset](https://github.com/sandipannas/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sandipannas/LeetCode/tree/main/0706-design-hashmap/) | Easy |
@@ -239,4 +240,8 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sandipannas/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/sandipannas/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
