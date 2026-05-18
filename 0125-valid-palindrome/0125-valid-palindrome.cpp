@@ -6,15 +6,11 @@ public:
         //turn the s to lowercase
 
         while(left<right){
-            while(left<right && !( (int)s[left]>=48 && (int)s[left]<=57 ||
-                            (int)s[left]>=65 && (int)s[left]<=90 ||
-                            (int)s[left]>=97 && (int)s[left]<=122 )) {
+            while(left<right && !isalnum(s[left])) {
                                 //cout<<"skipping "<<s[left]<<endl;
                                 left++;
             } 
-            while(right>left && !( (int)s[right]>=48 && (int)s[right]<=57 ||
-                            (int)s[right]>=65 && (int)s[right]<=90 ||
-                            (int)s[right]>=97 && (int)s[right]<=122)){
+            while(right>left && !isalnum(s[right])){
                                 //cout<<"skipping "<<s[right]<<endl;
                                 right--;
             }
