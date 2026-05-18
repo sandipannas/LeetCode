@@ -13,15 +13,14 @@ public:
         
         int right=i+1;
         int left=i-1;
-        int flag_left=1;
-        int flag_right=1;
 
-        while(set.count(left) || set.count(right)){
-            if(flag_left && set.count(left)){count++; set.erase(left); left--;}
-            else{ flag_left=0; }
-            if(flag_right && set.count(right)){count++; set.erase(right); right++;}
-            else{ flag_right=0; }
+        while(set.count(left)){
+            count++; set.erase(left); left--;
         }
+        while(set.count(right)){
+            count++; set.erase(right); right++;
+        }
+
         big=max(big,count);
         count=1;
        }
