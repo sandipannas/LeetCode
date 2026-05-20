@@ -5,14 +5,12 @@ public:
         int n=grid[0].size();
 
         queue<pair<int,int>> line;
-        vector<vector<int>> visited(m,vector<int>(n));
 
         //inserting the rotten oranges
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==2){
                     line.push({i,j});
-                    visited[i][j]=1;
                 }
             }
         }
@@ -34,30 +32,30 @@ public:
             }
 
             //up
-            if(i-1>=0 && !visited[i-1][j] && grid[i-1][j]!=0){
-                visited[i-1][j]=1;
+            if(i-1>=0 && grid[i-1][j]==1){
+                grid[i-1][j]=2;
                 line.push({i-1,j});
             }
             //down
-            if(i+1<m && !visited[i+1][j] && grid[i+1][j]!=0){
-                visited[i+1][j]=1;
+            if(i+1<m && grid[i+1][j]==1){
+                grid[i+1][j]=2;
                 line.push({i+1,j});
             }
             //left
-            if(j-1>=0 && !visited[i][j-1] && grid[i][j-1]!=0){
-                visited[i][j-1]=1;
+            if(j-1>=0 && grid[i][j-1]==1){
+                grid[i][j-1]=2;
                 line.push({i,j-1});
             }
             //right
-            if(j+1<n && !visited[i][j+1] && grid[i][j+1]!=0){
-                visited[i][j+1]=1;
+            if(j+1<n && grid[i][j+1]==1){
+                grid[i][j+1]=2;
                 line.push({i,j+1});
             }
         }
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(visited[i][j]==0 && grid[i][j]==1){ return -1;}
+                if(grid[i][j]==1){ return -1;}
             }
         }
        
