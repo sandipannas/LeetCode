@@ -8,7 +8,7 @@ public:
         int count=0;
         
         vector<vector<int>> visited(m,vector<int>(n));
-        queue<vector<int>> line;
+        queue<pair<int,int>> line;
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
@@ -22,11 +22,10 @@ public:
         line.push({-1,-1});
 
         while(line.size()!=1){
-            vector<int> node=line.front();
-            line.pop();
 
-            int i=node[0];
-            int j=node[1];
+            int i=line.front().first;
+            int j=line.front().second;
+            line.pop();
 
             //cout<<"node is "<<i<<" "<<j<<endl;
 
