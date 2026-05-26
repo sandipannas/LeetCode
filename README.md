@@ -14,6 +14,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0064-minimum-path-sum](https://github.com/sandipannas/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/sandipannas/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sandipannas/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0169-majority-element](https://github.com/sandipannas/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/sandipannas/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/sandipannas/LeetCode/tree/main/0204-count-primes/) | Medium |
@@ -43,6 +44,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/sandipannas/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sandipannas/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/sandipannas/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/sandipannas/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -254,6 +256,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sandipannas/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/sandipannas/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -262,11 +265,13 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/sandipannas/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/sandipannas/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/sandipannas/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
