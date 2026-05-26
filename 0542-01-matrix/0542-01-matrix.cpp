@@ -19,21 +19,18 @@ public:
             }
         }
 
-        line.push({-1,-1});
 
-        while(line.size()!=1){
+        while(line.size()!=0){
+
+            int till=line.size();
+
+            while(till--){
 
             int i=line.front().first;
             int j=line.front().second;
             line.pop();
 
             //cout<<"node is "<<i<<" "<<j<<endl;
-
-            if(i==-1){
-                count++;
-                line.push({-1,-1});
-                continue;
-            }
 
             mat[i][j]=count;
 
@@ -61,6 +58,9 @@ public:
                 visited[i][j+1]=1;
                 line.push({i,j+1});
             }
+            }
+
+            count++;
         }
         return mat;
     }
