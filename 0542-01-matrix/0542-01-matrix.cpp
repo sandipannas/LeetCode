@@ -1,0 +1,68 @@
+class Solution {
+public:
+    vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
+        
+        int m=mat.size();
+        int n=mat[0].size();
+
+        int count=0;
+        
+        vector<vector<int>> visited(m,vector<int>(n));
+        queue<vector<int>> line;
+
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(mat[i][j]==0){
+                    visited[i][j]=1;
+                    line.push({i,j});
+                }
+            }
+        }
+
+        line.push({-1,-1});
+
+        while(line.size()!=1){
+            vector<int> node=line.front();
+            line.pop();
+
+            int i=node[0];
+            int j=node[1];
+
+            //cout<<"node is "<<i<<" "<<j<<endl;
+
+            if(i==-1){
+                count++;
+                line.push({-1,-1});
+                continue;
+            }
+
+            mat[i][j]=count;
+
+            //up
+            if(i-1>=0 && !visited[i-1][j]){
+                //cout<<"pushing up "<<i-1<<" "<<j<<endl;
+                visited[i-1][j]=1;
+                line.push({i-1,j});
+            }
+            //down
+            if(i+1<m && !visited[i+1][j]){
+                //cout<<"pushing down "<<i+1<<" "<<j<<endl;
+                visited[i+1][j]=1;
+                line.push({i+1,j});
+            }
+            //left
+            if(j-1>=0 && !visited[i][j-1]){
+                //cout<<"pushing left "<<i<<" "<<j-1<<endl;
+                visited[i][j-1]=1;
+                line.push({i,j-1});
+            }
+            //right
+            if(j+1<n && !visited[i][j+1]){
+                //cout<<"pushing right "<<i<<" "<<j+1<<endl;
+                visited[i][j+1]=1;
+                line.push({i,j+1});
+            }
+        }
+        return mat;
+    }
+};
