@@ -22,6 +22,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0238-product-of-array-except-self](https://github.com/sandipannas/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sandipannas/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/sandipannas/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0542-01-matrix](https://github.com/sandipannas/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sandipannas/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0705-design-hashset](https://github.com/sandipannas/LeetCode/tree/main/0705-design-hashset/) | Easy |
@@ -42,6 +43,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/sandipannas/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sandipannas/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0542-01-matrix](https://github.com/sandipannas/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/sandipannas/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sandipannas/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -63,6 +65,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0120-triangle](https://github.com/sandipannas/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/sandipannas/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/sandipannas/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0542-01-matrix](https://github.com/sandipannas/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandipannas/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sandipannas/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Sliding Window
@@ -264,6 +267,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/sandipannas/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/sandipannas/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/sandipannas/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
