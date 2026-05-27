@@ -31,6 +31,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0912-sort-an-array](https://github.com/sandipannas/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/sandipannas/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/sandipannas/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/sandipannas/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sandipannas/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -48,6 +49,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0542-01-matrix](https://github.com/sandipannas/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/sandipannas/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/sandipannas/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sandipannas/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sandipannas/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## String
@@ -258,6 +260,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0128-longest-consecutive-sequence](https://github.com/sandipannas/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/sandipannas/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/sandipannas/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +271,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/sandipannas/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [1020-number-of-enclaves](https://github.com/sandipannas/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +280,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0547-number-of-provinces](https://github.com/sandipannas/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/sandipannas/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/sandipannas/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
