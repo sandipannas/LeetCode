@@ -3,29 +3,17 @@ public:
     bool isValid(string s) {
         stack<char> stk;
 
-        for(char i:s){
-            if(ranges::contains(array{')','}',']'},i) && stk.empty()){
-                return false;
+        for(char i : s){
+            if(i=='('){ stk.push(')'); }
+            else if(i=='{'){ stk.push('}'); }
+            else if(i=='['){ stk.push(']'); }
+            else{ 
+                if(stk.empty() || i!=stk.top()){ return false; }
+                else{ stk.pop(); }  
             }
-            else if(
-                ( i==')' && stk.top()!='(' ) || 
-                ( i=='}' && stk.top()!='{' ) || 
-                ( i==']' && stk.top()!='[' )) {
-                    return false;
-            }
-            else if(
-                ( i==')' && stk.top()=='(' ) || 
-                ( i=='}' && stk.top()=='{' ) || 
-                ( i==']' && stk.top()=='[' )
-            ){
-                stk.pop();
-            }
-            else{
-                stk.push(i);
-            }
-
         }
-        if(!stk.empty()){ return false;}
+
+        if(!stk.empty()) return false;
         return true;
     }
 };
