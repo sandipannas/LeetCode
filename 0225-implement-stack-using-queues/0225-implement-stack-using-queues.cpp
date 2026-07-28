@@ -1,7 +1,6 @@
 class MyStack {
 public:
     queue<int> one;
-    queue<int> two;
 
     MyStack() {
         
@@ -12,39 +11,33 @@ public:
     }
     
     int pop() {
-        return transfer(one,two,0);
+        return transfer(one,0);
     }
     
     int top() {
-        return transfer(one,two,1);
-        
+        return transfer(one,1);  
     }
     
     bool empty() {
-        if(one.size()==0) return 1;
-        return 0;
+        return one.empty();
     }
 
-    int transfer(queue<int>& one,queue<int>& two,int flag){
-        while(one.size()!=1){
-            two.push(one.front());
-            one.pop();
+    int transfer(queue<int>& one,int top){
+        int n=one.size()-1;
+        while(n--){
+          one.push(one.front());
+          one.pop();
         }
 
-        int tem=one.front();
-        one.pop();
+        int answer=one.front();
+        one.pop(); 
+        
+        if(top) one.push(answer);
 
-        if(flag){
-           two.push(tem); 
-        }
-
-        while(!two.empty()){
-            one.push(two.front());
-            two.pop();
-        }
-
-        return tem;
+        return answer;
     }
+
+        
 };
 
 /**
