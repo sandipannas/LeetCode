@@ -4,8 +4,8 @@ I have uploaded my LeetCode submission/solution in this repo
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/sandipannas/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sandipannas/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/sandipannas/LeetCode/tree/main/0027-remove-element/) | Easy |
@@ -35,6 +35,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1046-last-stone-weight](https://github.com/sandipannas/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sandipannas/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1720-crawler-log-folder](https://github.com/sandipannas/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1929-concatenation-of-array](https://github.com/sandipannas/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sandipannas/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -42,8 +43,8 @@ I have uploaded my LeetCode submission/solution in this repo
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sandipannas/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sandipannas/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0063-unique-paths-ii](https://github.com/sandipannas/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sandipannas/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
@@ -54,16 +55,17 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sandipannas/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sandipannas/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/sandipannas/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/sandipannas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sandipannas/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [1720-crawler-log-folder](https://github.com/sandipannas/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandipannas/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/sandipannas/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sandipannas/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sandipannas/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -74,12 +76,12 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandipannas/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sandipannas/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandipannas/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/sandipannas/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sandipannas/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sandipannas/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -96,28 +98,28 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sandipannas/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0146-lru-cache](https://github.com/sandipannas/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0355-design-twitter](https://github.com/sandipannas/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sandipannas/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/sandipannas/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sandipannas/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sandipannas/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sandipannas/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sandipannas/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -129,36 +131,36 @@ I have uploaded my LeetCode submission/solution in this repo
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sandipannas/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sandipannas/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sandipannas/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sandipannas/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1929-concatenation-of-array](https://github.com/sandipannas/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sandipannas/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sandipannas/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/sandipannas/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0204-count-primes](https://github.com/sandipannas/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sandipannas/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sandipannas/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0169-majority-element](https://github.com/sandipannas/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sandipannas/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/sandipannas/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0056-merge-intervals](https://github.com/sandipannas/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/sandipannas/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -170,24 +172,24 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sandipannas/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sandipannas/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0238-product-of-array-except-self](https://github.com/sandipannas/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sandipannas/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sandipannas/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sandipannas/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1009-complement-of-base-10-integer](https://github.com/sandipannas/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sandipannas/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/sandipannas/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/sandipannas/LeetCode/tree/main/0146-lru-cache/) | Medium |
@@ -196,88 +198,88 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0705-design-hashset](https://github.com/sandipannas/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sandipannas/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0146-lru-cache](https://github.com/sandipannas/LeetCode/tree/main/0146-lru-cache/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sandipannas/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/sandipannas/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sandipannas/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/sandipannas/LeetCode/tree/main/0062-unique-paths/) | Medium |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/sandipannas/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0027-remove-element](https://github.com/sandipannas/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/sandipannas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sandipannas/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0705-design-hashset](https://github.com/sandipannas/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sandipannas/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sandipannas/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0912-sort-an-array](https://github.com/sandipannas/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/sandipannas/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/sandipannas/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/sandipannas/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/sandipannas/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0204-count-primes](https://github.com/sandipannas/LeetCode/tree/main/0204-count-primes/) | Medium |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0204-count-primes](https://github.com/sandipannas/LeetCode/tree/main/0204-count-primes/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sandipannas/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/sandipannas/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [1020-number-of-enclaves](https://github.com/sandipannas/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0206-reverse-linked-list](https://github.com/sandipannas/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/sandipannas/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1020-number-of-enclaves](https://github.com/sandipannas/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/sandipannas/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/sandipannas/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
@@ -285,7 +287,11 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0994-rotting-oranges](https://github.com/sandipannas/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/sandipannas/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0547-number-of-provinces](https://github.com/sandipannas/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/sandipannas/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
