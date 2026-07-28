@@ -2,15 +2,30 @@ class Solution {
 public:
     bool isValid(string s) {
         stack<char> stk;
+
         for(char i:s){
-            if(!stk.empty()){
-                if(i==')' && stk.top()=='('){ stk.pop(); }
-                else if(i=='}' && stk.top()=='{'){ stk.pop(); }
-                else if(i==']' && stk.top()=='['){ stk.pop(); }
-                else{ stk.push(i); }
+            if(ranges::contains(array{')','}',']'},i) && stk.empty()){
+                return false;
             }
-            else{ stk.push(i); }
+            else if(
+                ( i==')' && stk.top()!='(' ) || 
+                ( i=='}' && stk.top()!='{' ) || 
+                ( i==']' && stk.top()!='[' )) {
+                    return false;
+            }
+            else if(
+                ( i==')' && stk.top()=='(' ) || 
+                ( i=='}' && stk.top()=='{' ) || 
+                ( i==']' && stk.top()=='[' )
+            ){
+                stk.pop();
+            }
+            else{
+                stk.push(i);
+            }
+
         }
-        return stk.empty()?true:false;
+        if(!stk.empty()){ return false;}
+        return true;
     }
 };

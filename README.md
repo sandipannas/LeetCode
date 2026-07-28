@@ -59,6 +59,7 @@ I have uploaded my LeetCode submission/solution in this repo
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sandipannas/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/sandipannas/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sandipannas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sandipannas/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1720-crawler-log-folder](https://github.com/sandipannas/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -295,6 +296,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sandipannas/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/sandipannas/LeetCode/tree/master/0682-baseball-game) |
 | [1720-crawler-log-folder](https://github.com/sandipannas/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
