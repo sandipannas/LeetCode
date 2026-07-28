@@ -26,6 +26,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0542-01-matrix](https://github.com/sandipannas/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sandipannas/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0682-baseball-game](https://github.com/sandipannas/LeetCode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/sandipannas/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sandipannas/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -141,6 +142,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sandipannas/LeetCode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/sandipannas/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sandipannas/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sandipannas/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -293,5 +295,6 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sandipannas/LeetCode/tree/master/0682-baseball-game) |
 | [1720-crawler-log-folder](https://github.com/sandipannas/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
