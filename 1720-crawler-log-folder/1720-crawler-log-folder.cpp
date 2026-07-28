@@ -1,14 +1,14 @@
 class Solution {
 public:
     int minOperations(vector<string>& logs) {
-        stack<string> stk;
+        stack<int> stk;
 
         for(string s:logs){
             if(s=="../" && stk.size()!=0){
                 stk.pop();
             }
-            else if(s.back()=='/' && s.front()!='.'){
-                stk.push("s");
+            else if(s.front()!='.'){
+                stk.push(1);
             }
         }
 
