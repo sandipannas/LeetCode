@@ -6,14 +6,10 @@ public:
         int i=0;
         while(i<prices.size()){
             if(!stk.empty() && prices[stk.top()]>=prices[i]){
+
+                prices[stk.top()]-=prices[i];
+                stk.pop(); continue;
                 
-                int tem_value=prices[stk.top()]-prices[i];
-                int tem_index=stk.top();
-
-                stk.pop();
-
-                prices[tem_index]=tem_value;
-                continue;
             }
             stk.push(i);
             i++;
