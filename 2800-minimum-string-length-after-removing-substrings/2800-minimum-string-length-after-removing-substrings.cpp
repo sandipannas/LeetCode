@@ -3,15 +3,15 @@ public:
     int minLength(string s) {
         string answer;
 
-        for(char i:s){
+        for(char c:s){
             if(!answer.empty() && 
-               ((answer.back()=='A' && i=='B') ||
-               (answer.back()=='C' && i=='D')))
+               ((answer.back()=='A' && c=='B') ||
+               (answer.back()=='C' && c=='D')))
             {
                 answer.pop_back();
             }
             else{
-                answer.push_back(i);
+                answer.push_back(c);
             }
         }
         return answer.size();
