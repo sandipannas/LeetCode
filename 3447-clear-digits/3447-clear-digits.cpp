@@ -6,8 +6,8 @@ public:
         for(char c:s){
             if(
                !answer.empty() && 
-               (answer.back()<48 || answer.back()>57) &&
-               c>=48 && c<=57
+               !isdigit(answer.back()) &&
+               isdigit(c)
               )
               {
                 answer.pop_back();
