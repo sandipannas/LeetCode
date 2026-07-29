@@ -6,7 +6,6 @@ public:
         for(char c:s){
             if(
                !answer.empty() && 
-               !isdigit(answer.back()) &&
                isdigit(c)
               )
               {
