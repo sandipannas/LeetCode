@@ -2,22 +2,22 @@ class Solution {
 public:
     bool validateStackSequences(vector<int>& pushed, vector<int>& popped) {
         stack<int> stk;
-        int pt=0;
+        int poppt=0,pushpt=0;
 
-        for(int i=0;i<pushed.size();i++){
-            if(!stk.empty() && popped[pt]==stk.top()){ 
+        while(pushpt<pushed.size()){
+            if(!stk.empty() && popped[poppt]==stk.top()){ 
                 stk.pop();  
-                pt++; 
-                i--;
+                poppt++; 
             }
             else{ 
-                stk.push(pushed[i]); 
+                stk.push(pushed[pushpt]); 
+                pushpt++;
             }
         }
 
-        while(pt<popped.size()){
-            if(stk.empty() || stk.top()!=popped[pt]) return false;
-            stk.pop(); pt++;
+        while(poppt<popped.size()){
+            if(stk.empty() || stk.top()!=popped[poppt]) return false;
+            stk.pop(); poppt++;
         }
 
         return true;
