@@ -67,6 +67,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1720-crawler-log-folder](https://github.com/sandipannas/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandipannas/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2470-removing-stars-from-a-string](https://github.com/sandipannas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sandipannas/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/sandipannas/LeetCode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
@@ -152,6 +153,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | ------- |
 | [0682-baseball-game](https://github.com/sandipannas/LeetCode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/sandipannas/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2470-removing-stars-from-a-string](https://github.com/sandipannas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sandipannas/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sandipannas/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sandipannas/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -313,6 +315,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandipannas/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/sandipannas/LeetCode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/sandipannas/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2470-removing-stars-from-a-string](https://github.com/sandipannas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sandipannas/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/sandipannas/LeetCode/tree/master/3447-clear-digits) |
 ## Queue
