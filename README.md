@@ -15,6 +15,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0120-triangle](https://github.com/sandipannas/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sandipannas/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sandipannas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sandipannas/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/sandipannas/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/sandipannas/LeetCode/tree/main/0204-count-primes/) | Medium |
@@ -162,6 +163,7 @@ I have uploaded my LeetCode submission/solution in this repo
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sandipannas/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sandipannas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sandipannas/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sandipannas/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Divide and Conquer
@@ -308,6 +310,7 @@ I have uploaded my LeetCode submission/solution in this repo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandipannas/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sandipannas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sandipannas/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sandipannas/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sandipannas/LeetCode/tree/master/0232-implement-queue-using-stacks) |
