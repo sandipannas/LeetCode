@@ -32,6 +32,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0706-design-hashmap](https://github.com/sandipannas/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0912-sort-an-array](https://github.com/sandipannas/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [0983-validate-stack-sequences](https://github.com/sandipannas/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/sandipannas/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/sandipannas/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/sandipannas/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -153,6 +154,7 @@ I have uploaded my LeetCode submission/solution in this repo
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sandipannas/LeetCode/tree/master/0682-baseball-game) |
+| [0983-validate-stack-sequences](https://github.com/sandipannas/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1929-concatenation-of-array](https://github.com/sandipannas/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2470-removing-stars-from-a-string](https://github.com/sandipannas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sandipannas/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -315,6 +317,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0225-implement-stack-using-queues](https://github.com/sandipannas/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sandipannas/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/sandipannas/LeetCode/tree/master/0682-baseball-game) |
+| [0983-validate-stack-sequences](https://github.com/sandipannas/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandipannas/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/sandipannas/LeetCode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/sandipannas/LeetCode/tree/master/1720-crawler-log-folder) |
