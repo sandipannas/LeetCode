@@ -64,6 +64,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sandipannas/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/sandipannas/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/sandipannas/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/sandipannas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sandipannas/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1666-make-the-string-great](https://github.com/sandipannas/LeetCode/tree/master/1666-make-the-string-great) |
@@ -314,6 +315,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sandipannas/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/sandipannas/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sandipannas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sandipannas/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sandipannas/LeetCode/tree/master/0225-implement-stack-using-queues) |
