@@ -339,4 +339,8 @@ I have uploaded my LeetCode submission/solution in this repo
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/sandipannas/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandipannas/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/sandipannas/LeetCode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 <!---LeetCode Topics End-->
