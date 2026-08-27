@@ -343,4 +343,5 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1517-find-users-with-valid-e-mails](https://github.com/sandipannas/LeetCode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+| [1729-find-followers-count](https://github.com/sandipannas/LeetCode/tree/main/1729-find-followers-count/) | Easy |
 <!---LeetCode Topics End-->
