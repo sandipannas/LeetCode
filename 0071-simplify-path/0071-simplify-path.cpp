@@ -26,11 +26,11 @@ public:
 
         if(canonical.empty()) return "/";
 
-        string answer="";
+        tem="";
         for(string s:canonical){
-            answer+=("/"+s);
+            tem+=("/"+s);
         }
 
-        return answer;
+        return tem;
     }
 };
