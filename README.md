@@ -353,4 +353,5 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1729-find-followers-count](https://github.com/sandipannas/LeetCode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/sandipannas/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/sandipannas/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
+| [1890-the-latest-login-in-2020](https://github.com/sandipannas/LeetCode/tree/main/1890-the-latest-login-in-2020/) | Easy |
 <!---LeetCode Topics End-->
