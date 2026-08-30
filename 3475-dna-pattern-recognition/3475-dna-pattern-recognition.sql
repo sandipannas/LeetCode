@@ -7,7 +7,7 @@ select
         else 0
     end as has_start,
     case
-        when regexp_like(dna_sequence,'TAA$') or regexp_like(dna_sequence,'TAG$') or regexp_like(dna_sequence,'TGA$') then 1
+        when regexp_like(dna_sequence,'(TAA|TAG|TGA)$') then 1
         else 0
     end as has_stop,
     case
