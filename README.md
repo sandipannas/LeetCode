@@ -354,5 +354,6 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/sandipannas/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/sandipannas/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/sandipannas/LeetCode/tree/main/1890-the-latest-login-in-2020/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/sandipannas/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sandipannas/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
