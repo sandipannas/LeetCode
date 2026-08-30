@@ -342,6 +342,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0184-department-highest-salary](https://github.com/sandipannas/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/sandipannas/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1517-find-users-with-valid-e-mails](https://github.com/sandipannas/LeetCode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/sandipannas/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
