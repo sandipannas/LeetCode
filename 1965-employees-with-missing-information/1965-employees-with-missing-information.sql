@@ -1,17 +1,10 @@
 select
-    e.employee_id
+    case
+        when e.employee_id is null then s.employee_id
+        when s.employee_id is null then e.employee_id
+    end as employee_id
 from employees as e
-left join salaries as s
+full join salaries as s
 on e.employee_id=s.employee_id
-where s.employee_id is null or e.name is null
-
-union
-
-select
-    s.employee_id
-from salaries as s
-left join employees as e
-on s.employee_id=e.employee_id
-where e.employee_id is null or s.salary is null
-
-order by employee_id asc
+where e.name is null or s.salary is null
+order by employee_id
