@@ -1,8 +1,5 @@
 select
-    case
-        when e.employee_id is null then s.employee_id
-        when s.employee_id is null then e.employee_id
-    end as employee_id
+    coalesce(e.employee_id,s.employee_id) as employee_id
 from employees as e
 full join salaries as s
 on e.employee_id=s.employee_id
