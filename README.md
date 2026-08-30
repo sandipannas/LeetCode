@@ -352,6 +352,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1693-daily-leads-and-partners](https://github.com/sandipannas/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/sandipannas/LeetCode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/sandipannas/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/sandipannas/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/sandipannas/LeetCode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/sandipannas/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/sandipannas/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
