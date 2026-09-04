@@ -68,6 +68,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0125-valid-palindrome](https://github.com/sandipannas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sandipannas/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/sandipannas/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/sandipannas/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [1666-make-the-string-great](https://github.com/sandipannas/LeetCode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/sandipannas/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandipannas/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -226,6 +227,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/sandipannas/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sandipannas/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -323,6 +325,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0225-implement-stack-using-queues](https://github.com/sandipannas/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sandipannas/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/sandipannas/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/sandipannas/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sandipannas/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/sandipannas/LeetCode/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/sandipannas/LeetCode/tree/master/0983-validate-stack-sequences) |
@@ -340,6 +343,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/sandipannas/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sandipannas/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandipannas/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Database
