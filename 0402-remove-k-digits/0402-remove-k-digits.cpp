@@ -27,8 +27,9 @@ public:
         }
 
         //we still have some leftover k to work with
-        while(!answer.empty() && k--){
+        while(!answer.empty() && k>0){
             answer.pop_back();
+            k--;
         }
 
         //the string can be empty due to the zeros init 
