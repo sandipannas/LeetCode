@@ -14,20 +14,24 @@ public:
         string answer="";
 
         for(char c:num){
-        while(!answer.empty() && answer.back()>c && k!=0){
+            //this while loop keeps the string monotonic
+            while(!answer.empty() && answer.back()>c && k!=0){
                     answer.pop_back();
                     k--;
+            }
+            
+            //removing leading zeros doesnt affect k
+            if(answer.empty() && c=='0'){ continue; }
+
+            answer.push_back(c);
         }
 
-        if(answer.empty() && c=='0'){ continue; }
-
-        answer.push_back(c);
-        }
-
+        //we still have some leftover k to work with
         while(!answer.empty() && k--){
             answer.pop_back();
         }
 
+        //the string can be empty due to the zeros init 
         return answer==""?"0":answer;
     }
 };
