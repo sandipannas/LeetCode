@@ -18,10 +18,7 @@ public:
 
         string answer="";
         for(auto& both : stk){
-            int count=both.second;
-            while(count--){
-                answer+=both.first;
-            }
+            answer.append(both.second,both.first);
         }
 
         return answer;
