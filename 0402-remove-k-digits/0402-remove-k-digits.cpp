@@ -4,7 +4,7 @@ public:
        if(k>=num.size()) return "0";
        else if(k==0) return num;
 
-       string answer="";
+       string answer=""; answer.reserve(num.size());
 
        for(char c:num){
             while(!answer.empty() && answer.back()>c && k!=0){
