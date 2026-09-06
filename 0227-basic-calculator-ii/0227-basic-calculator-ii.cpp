@@ -1,22 +1,9 @@
 class Solution {
 public:
-    // void print(vector<int>& nums){
-    //     for(int i:nums){
-    //         cout<<i<<"->";
-    //     }
-    //     cout<<endl;
-    // }
-    // void print(vector<char>& nums){
-    //     for(char i:nums){
-    //         cout<<i<<"->";
-    //     }
-    //     cout<<endl;
-    // }
     int calculate(string s) {
         vector<int> nums;
         vector<char> sym;
         
-        //preprocessing
         string num="";
         for(char c:s){
             if(c=='*' || c=='+' || c=='/' || c=='-'){
@@ -38,9 +25,6 @@ public:
             }
         }
         
-        //print(nums); print(sym);
-
-
         vector<int> tem_nums;
         vector<char> tem_sym;
         
@@ -67,7 +51,6 @@ public:
             tem_nums.back()+=nums[i+1]; 
         }
 
-        
         return tem_nums.back();
     }
 };
