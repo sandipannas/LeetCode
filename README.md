@@ -66,6 +66,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0020-valid-parentheses](https://github.com/sandipannas/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sandipannas/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/sandipannas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/sandipannas/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sandipannas/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/sandipannas/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/sandipannas/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
@@ -175,6 +176,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0062-unique-paths](https://github.com/sandipannas/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sandipannas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sandipannas/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/sandipannas/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sandipannas/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -327,6 +329,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0150-evaluate-reverse-polish-notation](https://github.com/sandipannas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sandipannas/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sandipannas/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/sandipannas/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/sandipannas/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/sandipannas/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/sandipannas/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
