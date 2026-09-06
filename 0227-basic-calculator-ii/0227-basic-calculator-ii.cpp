@@ -2,50 +2,42 @@ class Solution {
 public:
     int calculate(string s) {
         vector<int> nums;
-        vector<char> sys;
+        char pre='@';
 
-        string coll="";
-
+        int number=0;
         for(int i=0;i<s.size();i++){
-            char c=s[i];    
-            if( c<'0' || c>'9' || i==s.size()-1 ){ 
+            char c=s[i];
+            int digit=c-'0';
+
+            if( !isdigit(c) || i==s.size()-1 ){ 
+                /////////////////////////////////////////
                 if(c==' ' && i!=s.size()-1){ continue; }
+                ////////////////////////////////////////
                 if(i==s.size()-1 && c!=' '){ 
-                    coll+=c;
+                    number=number*10+digit;
                 }    
-                if(!sys.empty()){
-                    char sign=sys.back();
-                    if(sign=='/'){ 
-                        nums.back()/=stoi(coll);  
-                        sys.pop_back(); 
-                    }
-                    else if(sign=='*'){ 
-                        nums.back()*=stoi(coll); 
-                        sys.pop_back();    
-                    }
-                    else if(sign=='+'){ 
-                        nums.push_back(stoi(coll)); 
-                    }
-                    else if(sign=='-'){ 
-                        nums.push_back(-stoi(coll)); 
-                        sys.back()='+';
-                    }
+                //////////////////////////////////////////
+                if(pre!='@'){
+                    if(pre=='/')       nums.back()/=number;   
+                    else if(pre=='*')  nums.back()*=number;
+                    else if(pre=='+')  nums.push_back(number); 
+                    else if(pre=='-')  nums.push_back(-number); 
                 }
                 else{
-                    nums.push_back(stoi(coll)); 
+                    nums.push_back(number); 
                 }
-                coll=""; 
-                sys.push_back(c);
+                ///////////////////////////////////////////
+                number=0;
+                pre=c;
             }
             else{
-                coll+=c;
+                number=(number*10)+digit;
             }
         }
 
         int answer=0;
-        for(int i:nums){
-            answer+=i;
-        }
+        for(int i:nums) answer+=i;
+
         return answer;
     }
 };
