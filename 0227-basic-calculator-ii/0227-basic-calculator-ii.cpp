@@ -13,28 +13,19 @@ public:
                 if(i==s.size()-1 && c!=' '){ 
                     coll+=c;
                 }    
-
                 if(!sys.empty()){
-                    //we have to perform the previous operation
                     char sign=sys.back();
-
                     if(sign=='/'){ 
-                        cout<<nums.back()<<'/'<<coll<<endl;
                         nums.back()/=stoi(coll);  
                         sys.pop_back(); 
-                        
                     }
-
                     else if(sign=='*'){ 
-                        cout<<nums.back()<<'*'<<coll<<endl;
                         nums.back()*=stoi(coll); 
                         sys.pop_back();    
                     }
-
                     else if(sign=='+'){ 
                         nums.push_back(stoi(coll)); 
                     }
-
                     else if(sign=='-'){ 
                         nums.push_back(-stoi(coll)); 
                         sys.back()='+';
@@ -53,7 +44,6 @@ public:
 
         int answer=0;
         for(int i:nums){
-            cout<<"adding -> "<<i<<endl;
             answer+=i;
         }
         return answer;
