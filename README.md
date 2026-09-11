@@ -33,6 +33,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0706-design-hashmap](https://github.com/sandipannas/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0912-sort-an-array](https://github.com/sandipannas/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/sandipannas/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0983-validate-stack-sequences](https://github.com/sandipannas/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/sandipannas/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/sandipannas/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -258,6 +259,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0027-remove-element](https://github.com/sandipannas/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/sandipannas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sandipannas/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0962-maximum-width-ramp](https://github.com/sandipannas/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +338,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0496-next-greater-element-i](https://github.com/sandipannas/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/sandipannas/LeetCode/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandipannas/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/sandipannas/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0983-validate-stack-sequences](https://github.com/sandipannas/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sandipannas/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sandipannas/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -355,6 +358,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/sandipannas/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sandipannas/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0962-maximum-width-ramp](https://github.com/sandipannas/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandipannas/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Database
 | Problem Name | Difficulty |
