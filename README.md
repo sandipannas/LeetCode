@@ -391,6 +391,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1795-rearrange-products-table](https://github.com/sandipannas/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/sandipannas/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/sandipannas/LeetCode/tree/main/1890-the-latest-login-in-2020/) | Easy |
+| [1907-count-salary-categories](https://github.com/sandipannas/LeetCode/tree/main/1907-count-salary-categories/) | Medium |
 | [1965-employees-with-missing-information](https://github.com/sandipannas/LeetCode/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/sandipannas/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sandipannas/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
