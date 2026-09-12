@@ -123,6 +123,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/sandipannas/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sandipannas/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0155-min-stack](https://github.com/sandipannas/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sandipannas/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sandipannas/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/sandipannas/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0355-design-twitter](https://github.com/sandipannas/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sandipannas/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/sandipannas/LeetCode/tree/main/0705-design-hashset/) | Easy |
@@ -307,6 +309,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0341-flatten-nested-list-iterator](https://github.com/sandipannas/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0547-number-of-provinces](https://github.com/sandipannas/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/sandipannas/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1020-number-of-enclaves](https://github.com/sandipannas/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -333,6 +336,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0225-implement-stack-using-queues](https://github.com/sandipannas/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/sandipannas/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/sandipannas/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/sandipannas/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0394-decode-string](https://github.com/sandipannas/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/sandipannas/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sandipannas/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -353,6 +357,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sandipannas/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sandipannas/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/sandipannas/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,4 +395,8 @@ I have uploaded my LeetCode submission/solution in this repo
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandipannas/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sandipannas/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/sandipannas/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 <!---LeetCode Topics End-->
