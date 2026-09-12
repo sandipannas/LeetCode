@@ -369,6 +369,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0184-department-highest-salary](https://github.com/sandipannas/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
+| [0608-tree-node](https://github.com/sandipannas/LeetCode/tree/main/0608-tree-node/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/sandipannas/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1393-capital-gainloss](https://github.com/sandipannas/LeetCode/tree/main/1393-capital-gainloss/) | Medium |
 | [1517-find-users-with-valid-e-mails](https://github.com/sandipannas/LeetCode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
