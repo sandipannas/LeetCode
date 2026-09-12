@@ -394,6 +394,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1965-employees-with-missing-information](https://github.com/sandipannas/LeetCode/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/sandipannas/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sandipannas/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3220-odd-and-even-transactions](https://github.com/sandipannas/LeetCode/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/sandipannas/LeetCode/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/sandipannas/LeetCode/tree/main/3497-analyze-subscription-conversion/) | Medium |
 ## Bracket Sequences
