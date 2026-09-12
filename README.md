@@ -368,6 +368,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0178-rank-scores](https://github.com/sandipannas/LeetCode/tree/main/0178-rank-scores/) | Medium |
 | [0184-department-highest-salary](https://github.com/sandipannas/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0608-tree-node](https://github.com/sandipannas/LeetCode/tree/main/0608-tree-node/) | Medium |
 | [0626-exchange-seats](https://github.com/sandipannas/LeetCode/tree/main/0626-exchange-seats/) | Medium |
