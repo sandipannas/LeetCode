@@ -374,6 +374,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0180-consecutive-numbers](https://github.com/sandipannas/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/sandipannas/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0550-game-play-analysis-iv](https://github.com/sandipannas/LeetCode/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/sandipannas/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/sandipannas/LeetCode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0608-tree-node](https://github.com/sandipannas/LeetCode/tree/main/0608-tree-node/) | Medium |
 | [0626-exchange-seats](https://github.com/sandipannas/LeetCode/tree/main/0626-exchange-seats/) | Medium |
