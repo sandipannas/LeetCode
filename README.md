@@ -46,6 +46,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sandipannas/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sandipannas/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/sandipannas/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sandipannas/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sandipannas/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Matrix
@@ -79,6 +80,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandipannas/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2470-removing-stars-from-a-string](https://github.com/sandipannas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/sandipannas/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sandipannas/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3110-score-of-a-string](https://github.com/sandipannas/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3447-clear-digits](https://github.com/sandipannas/LeetCode/tree/master/3447-clear-digits) |
