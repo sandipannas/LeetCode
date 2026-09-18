@@ -80,6 +80,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2470-removing-stars-from-a-string](https://github.com/sandipannas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sandipannas/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3110-score-of-a-string](https://github.com/sandipannas/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3447-clear-digits](https://github.com/sandipannas/LeetCode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
