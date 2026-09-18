@@ -381,6 +381,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1045-customers-who-bought-all-products](https://github.com/sandipannas/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/sandipannas/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1158-market-analysis-i](https://github.com/sandipannas/LeetCode/tree/main/1158-market-analysis-i/) | Medium |
+| [1164-product-price-at-a-given-date](https://github.com/sandipannas/LeetCode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/sandipannas/LeetCode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1393-capital-gainloss](https://github.com/sandipannas/LeetCode/tree/main/1393-capital-gainloss/) | Medium |
 | [1517-find-users-with-valid-e-mails](https://github.com/sandipannas/LeetCode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
