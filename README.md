@@ -83,6 +83,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [2678-number-of-senior-citizens](https://github.com/sandipannas/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sandipannas/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3110-score-of-a-string](https://github.com/sandipannas/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sandipannas/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3447-clear-digits](https://github.com/sandipannas/LeetCode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -119,6 +120,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0706-design-hashmap](https://github.com/sandipannas/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sandipannas/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +252,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0347-top-k-frequent-elements](https://github.com/sandipannas/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sandipannas/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sandipannas/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
