@@ -19,4 +19,4 @@ class Solution:
                 small_odd=min(small_odd,value)
                 big_odd=max(big_odd,value)
         
-        return max(small_odd-big_even,big_odd-small_even)
+        return big_odd-small_even
