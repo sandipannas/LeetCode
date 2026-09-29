@@ -391,6 +391,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1174-immediate-food-delivery-ii](https://github.com/sandipannas/LeetCode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/sandipannas/LeetCode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/sandipannas/LeetCode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1321-restaurant-growth](https://github.com/sandipannas/LeetCode/tree/main/1321-restaurant-growth/) | Medium |
 | [1393-capital-gainloss](https://github.com/sandipannas/LeetCode/tree/main/1393-capital-gainloss/) | Medium |
 | [1517-find-users-with-valid-e-mails](https://github.com/sandipannas/LeetCode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/sandipannas/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
