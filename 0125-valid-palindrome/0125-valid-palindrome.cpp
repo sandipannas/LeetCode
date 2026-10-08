@@ -9,8 +9,8 @@ public:
             while(left<=right && !isalnum(s[right])) right--;
 
             if(left>right){ break;}
-            
-            if(s[left]>=0 && s[left]<=9 && s[left]!=s[right]){
+
+            if(s[left]>='0' && s[left]<='9' && s[left]!=s[right]){
                 return false;
             }
 
