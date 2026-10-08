@@ -1,29 +1,24 @@
 class Solution {
 public:
-    bool check(string s,int i,int j){
-        while(i<j){
-           // cout<<s[i]<<" "<<s[j]<<endl;
-            if(s[i]!=s[j])
-             {return false;}
-            i++; j--; 
-
+    bool is_pal(string& s,int left,int right){
+        while(left<=right){
+            if(s[left]!=s[right]) return 0;
+            left++; right--;
         }
-        return true;
+        return 1;
     }
+
     bool validPalindrome(string s) {
-        int st=0,ed=s.size()-1;
-        while(st<ed){
-            //cout<<s[st]<<" "<<s[ed]<<endl;
-            if(s[st]!=s[ed]) { 
-                if(check(s,st+1,ed) || check(s,st,ed-1))
-                {
-                    return true;
-                }
-                else{
-                    return false;
-                }
-             }
-             st++; ed--;
+        int left=0;
+        int right=s.size()-1;
+
+        while(left<right){
+            if(s[left]!=s[right]){
+                return is_pal(s,left+1,right) || is_pal(s,left,right-1);
+            }
+            left++; right--;
         }
-    return true;}
+
+        return 1;    
+    }
 };
