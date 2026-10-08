@@ -2,10 +2,10 @@ class Solution {
 public:
     bool is_pal(string& s,int left,int right){
         while(left<=right){
-            if(s[left]!=s[right]) return 0;
+            if(s[left]!=s[right]) return false;
             left++; right--;
         }
-        return 1;
+        return true;
     }
 
     bool validPalindrome(string s) {
@@ -19,6 +19,6 @@ public:
             left++; right--;
         }
 
-        return 1;    
+        return true;    
     }
 };
