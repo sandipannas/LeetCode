@@ -384,6 +384,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/sandipannas/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/sandipannas/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/sandipannas/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/sandipannas/LeetCode/tree/main/0178-rank-scores/) | Medium |
