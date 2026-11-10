@@ -395,6 +395,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sandipannas/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/sandipannas/LeetCode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0608-tree-node](https://github.com/sandipannas/LeetCode/tree/main/0608-tree-node/) | Medium |
+| [0620-not-boring-movies](https://github.com/sandipannas/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/sandipannas/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/sandipannas/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/sandipannas/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
