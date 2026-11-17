@@ -72,6 +72,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0125-valid-palindrome](https://github.com/sandipannas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/sandipannas/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sandipannas/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/sandipannas/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/sandipannas/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/sandipannas/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sandipannas/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -276,6 +277,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0027-remove-element](https://github.com/sandipannas/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/sandipannas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sandipannas/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0344-reverse-string](https://github.com/sandipannas/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/sandipannas/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/sandipannas/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Hash Function
