@@ -81,6 +81,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sandipannas/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1666-make-the-string-great](https://github.com/sandipannas/LeetCode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/sandipannas/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1768-merge-strings-alternately](https://github.com/sandipannas/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandipannas/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sandipannas/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2470-removing-stars-from-a-string](https://github.com/sandipannas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -280,6 +281,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0344-reverse-string](https://github.com/sandipannas/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/sandipannas/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/sandipannas/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/sandipannas/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
