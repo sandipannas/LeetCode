@@ -6,7 +6,6 @@ public:
 
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                //cout<<(long long)nums1[i]+nums2[j]<<endl;
                 map[(long long)nums1[i]+nums2[j]]++;
             }
         }
@@ -16,8 +15,8 @@ public:
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 long long tem=(long long)nums3[i]+nums4[j];
-                if(map.count(-1*tem)){ 
-                    num+=map[-1*tem];
+                if(map.count(-tem)){ 
+                    num+=map[-tem];
                 }
             }
         }
