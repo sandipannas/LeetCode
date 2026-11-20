@@ -12,10 +12,10 @@ public:
         }
 
         if(ins<n){
-            answer+=word1.substr(ins,n-ins);
+            answer.append(word1,ins,n-ins);
         }
         if(ins<m){
-            answer+=word2.substr(ins,m-ins);
+            answer.append(word2,ins,m-ins);
         }
 
         return answer;
