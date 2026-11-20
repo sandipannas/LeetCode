@@ -13,6 +13,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0056-merge-intervals](https://github.com/sandipannas/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sandipannas/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sandipannas/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sandipannas/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0120-triangle](https://github.com/sandipannas/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sandipannas/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/sandipannas/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
@@ -207,6 +208,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sandipannas/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sandipannas/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sandipannas/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandipannas/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -276,6 +278,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandipannas/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sandipannas/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/sandipannas/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sandipannas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sandipannas/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0344-reverse-string](https://github.com/sandipannas/LeetCode/tree/main/0344-reverse-string/) | Easy |
