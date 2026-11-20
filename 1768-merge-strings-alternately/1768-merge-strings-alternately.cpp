@@ -11,14 +11,11 @@ public:
             ins++;
         }
 
-        while(ins<n){
-            answer.push_back(word1[ins]);
-            ins++;
+        if(ins<n){
+            answer+=word1.substr(ins,n-ins);
         }
-
-        while(ins<m){
-            answer.push_back(word2[ins]);
-            ins++;
+        if(ins<m){
+            answer+=word2.substr(ins,m-ins);
         }
 
         return answer;
