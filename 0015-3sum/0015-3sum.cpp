@@ -11,18 +11,25 @@ public:
         while(third>=2){
             int first=0;
             int second=third-1;
+
+            if(nums[third]<0 || nums[second]+nums[third]<0){ break; }
+
             while(first<second){
                 int sum=nums[first]+nums[second]+nums[third];
                 if(sum==0){ 
                     answer.push_back( {nums[first],nums[second],nums[third]} );
+                    
                     int pp=nums[second];
-                    while(nums[second]==pp && first<second){ second--;}
+                    while(first<second && nums[second]==pp){ second--;}
+
+                    pp=nums[first];
+                    while(first<second && nums[first]==pp){ first++; }
                 }
                 else if(sum>0) second--;
                 else first++;
             }
             int pre=nums[third];
-            while(nums[third]==pre && third>=2){ third--;}
+            while(third>=2 && nums[third]==pre){ third--;}
         }
 
         return answer;
