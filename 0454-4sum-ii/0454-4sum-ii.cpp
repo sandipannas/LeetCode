@@ -15,8 +15,8 @@ public:
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 long long tem=(long long)nums3[i]+nums4[j];
-                if(map.count(-tem)){ 
-                    num+=map[-tem];
+                if(auto ele=map.find(-tem); ele!=map.end()){ 
+                    num+=ele->second;
                 }
             }
         }
