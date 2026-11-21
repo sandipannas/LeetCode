@@ -22,6 +22,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0150-evaluate-reverse-polish-notation](https://github.com/sandipannas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandipannas/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/sandipannas/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/sandipannas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/sandipannas/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/sandipannas/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandipannas/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -199,6 +200,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0062-unique-paths](https://github.com/sandipannas/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/sandipannas/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sandipannas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/sandipannas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/sandipannas/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/sandipannas/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sandipannas/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -292,6 +294,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | [0125-valid-palindrome](https://github.com/sandipannas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sandipannas/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandipannas/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/sandipannas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/sandipannas/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/sandipannas/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/sandipannas/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
