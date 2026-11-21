@@ -7,6 +7,7 @@ I have uploaded my LeetCode submission/solution in this repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sandipannas/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/sandipannas/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sandipannas/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/sandipannas/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sandipannas/LeetCode/tree/main/0018-4sum/) | Medium |
@@ -261,6 +262,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sandipannas/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0402-remove-k-digits](https://github.com/sandipannas/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0621-task-scheduler](https://github.com/sandipannas/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sandipannas/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -286,6 +288,7 @@ I have uploaded my LeetCode submission/solution in this repo
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sandipannas/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sandipannas/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sandipannas/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandipannas/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
