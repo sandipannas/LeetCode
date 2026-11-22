@@ -5,11 +5,12 @@ public:
         int left=0;
 
         for(int i=0;i<nums.size();i++){
-            if(map.count(nums[i]) && map[nums[i]]!=0) return true;
+            if(map.count(nums[i])) return true;
             if(i<k){ map[nums[i]]++; continue; }
 
             map[nums[i]]++;
-            map[nums[left++]]--;
+            map[nums[left]]--;
+            if(map[nums[left]]==0) map.erase(nums[left++]);
         }
         return false;
     }
