@@ -3,11 +3,19 @@ public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
         unordered_map<int,int> map;
 
-        for(int i=0;i<nums.size();i++){
-            if(map.count(nums[i]) && i-map[nums[i]]<=k) return true;
-            else map[nums[i]]=i;
+        int left=0;
+        while(left<min(k,(int)nums.size())){
+            if(map.count(nums[left])) return true;
+            map[nums[left++]]++;
         }
 
+        left=0;
+        
+        for(int i=k;i<nums.size();i++){
+            if(map.count(nums[i]) && map[nums[i]]!=0) return true;
+            map[nums[i]]++;
+            map[nums[left++]]--;
+        }
         return false;
     }
 };
