@@ -10,14 +10,8 @@ public:
             if(left_max<h[left]) left_max=h[left];
             if(right_max<h[right]) right_max=h[right];
 
-            if(left_max<right_max){
-                sum+=left_max-h[left];
-                left++;
-            }
-            else{
-                sum+=right_max-h[right];
-                right--;
-            }
+            if(left_max<right_max) sum+=left_max-h[left++];
+            else sum+=right_max-h[right--];
         }
         return sum;
     }
